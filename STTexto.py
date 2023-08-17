@@ -4,6 +4,7 @@ from collections import Counter
 import matplotlib.pyplot as plt
 import string
 import io
+st.image('labcom_logo_preto.jpg')
 
 st.title('Analista de Textos')
 
