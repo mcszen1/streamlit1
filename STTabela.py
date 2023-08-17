@@ -2,7 +2,7 @@ import pandas as pd
 import streamlit as st
 from collections import Counter
 import matplotlib.pyplot as plt
-st.image('https://github.com/mcszen1/streamlit1/blob/main/labcom_logo_preto.jpg', use_column_width=False)
+st.image('labcom_logo_preto.jpg', use_column_width=False)
 uploaded_file=st.file_uploader('Insira seu arquivo csv', type='csv')
 
 if uploaded_file is not None:
