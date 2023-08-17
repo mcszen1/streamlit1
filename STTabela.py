@@ -3,7 +3,7 @@ import streamlit as st
 from collections import Counter
 import matplotlib.pyplot as plt
 st.image('labcom_logo_preto.jpg')
-st.head('Analista de Tabelas - Versão teste')
+st.title('Analista de Tabelas - Versão teste')
 uploaded_file=st.file_uploader('Insira seu arquivo csv', type='csv')
 
 if uploaded_file is not None:
