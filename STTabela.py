@@ -1,7 +1,6 @@
 import pandas as pd
 import streamlit as st
 from collections import Counter
-import pickle
 import matplotlib.pyplot as plt
 uploaded_file=st.file_uploader('Insira seu arquivo csv', type='csv')
 
