@@ -14,7 +14,7 @@ def calcular_prestacao(principal, taxa_juros, meses):
 # Carregar dados do arquivo CSV
 @st.cache
 def carregar_dados(filepath):
-    data = pd.read_csv(filepath, error_bad_lines=False)
+    data = pd.read_csv(filepath)
     return data
 
 # Configurações iniciais do Streamlit
