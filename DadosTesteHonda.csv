@@ -1,0 +1,9 @@
+MODELO,CILINDRADA,Km com 1 litro de gasolina,TAMANHO DO TANQUE,AUTONOMIA,PREÇO SUGERIDO,CATEGORIA
+CG 160 Start,162.7cc,42 km/l,16.1 litros,675,4 km,R$ 9.590,00,TRABALHO
+CG 160 Fan,162.7cc,42 km/l,16.1 litros,675,4 km,R$ 9.990,00,TRABALHO
+CG 160 Titan,162.7cc,42 km/l,16.1 litros,675,4 km,R$ 11.490,00,TRABALHO
+CB 250F Twister,249.5cc,30,5 km/l,16.5 litros,502,5 km,R$ 14.490,00,LAZER
+XRE 300,291.6cc,29,5 km/l,13.8 litros,406,1 km,R$ 18.590,00,LAZER
+CB 500F,471cc,24,8 km/l,17.1 litros,424,8 km,R$ 26.500,00,SPORT
+CBR 650R,649cc,20,4 km/l,15.4 litros,314,16 km,R$ 38.500,00,SPORT
+CBR 1000RR Fireblade SP,999cc,16,5 km/l,16.2 litros,267,3 km,R$ 80.500,00,SPORT
