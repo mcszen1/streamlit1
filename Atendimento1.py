@@ -18,7 +18,8 @@ def carregar_dados(filepath):
     return data
 
 # Configurações iniciais do Streamlit
-st.title('Simulador de Financiamento de Veículos')
+st.title('Simulador de Financiamento de Motos')
+st.write('Esse é um aplicativo de testes com dados fictícios')
 
 # Carregar dados
 data = carregar_dados('DadosTesteHonda.csv')
