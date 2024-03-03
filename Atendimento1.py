@@ -23,7 +23,7 @@ st.write('Esse é um aplicativo de testes com dados fictícios')
 
 # Carregar dados
 data = carregar_dados('DadosTesteHonda.csv')
-modelo_selecionado = st.selectbox('Escolha um modelo de carro:', data['MODELO'])
+modelo_selecionado = st.selectbox('Escolha um modelo da sua moto:', data['MODELO'])
 
 # Mostrar ficha do modelo selecionado
 st.subheader('Ficha do Modelo')
